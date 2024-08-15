@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/aravi/Desktop/DataStructures",
-      "program": "c:/Users/aravi/Desktop/DataStructures/build/Debug/outDebug",
+      "cwd": "c:/Users/aravi/Desktop/DataStructures/-leetcode/easy",
+      "program": "c:/Users/aravi/Desktop/DataStructures/-leetcode/easy/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
